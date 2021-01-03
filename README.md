@@ -10,3 +10,21 @@
 
 #### Overview of app
 
+ - ### Authentication using firebase 
+
+<img src="./assets/app_ss/ss-auth.png" height="450" width="240">
+<br>
+
+ - ### Validation of user credentials
+
+<img src="./assets/app_ss/ss-val1.png" height="450" width="240"> &nbsp;   &nbsp;   <img src="./assets/app_ss/ss-val2.png" height="450" width="240">
+<br>
+
+ - ### Add pictures from gallery
+ 
+ <img src="./assets/app_ss/ss-2.png" height="450" width="240"> &nbsp;   &nbsp;  <img src="./assets/app_ss/ss-3.png" height="450" width="240"> &nbsp;   &nbsp;  <img src="./assets/app_ss/ss-4.png" height="450" width="240"> <br>
+ 
+ <img src="./assets/app_ss/ss-5.png" height="450" width="240"> &nbsp;  <img src="./assets/app_ss/ss-7.png" height="450" width="240"> &nbsp;   <img src="./assets/app_ss/ss-8.png" height="450" width="240">
+ 
+ 
+ - ## Note : Check the dependencies and thier version in pubspec.yaml file to get similar results. 
