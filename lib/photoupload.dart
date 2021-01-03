@@ -91,7 +91,8 @@ class _UploadPhotoPageState extends State<UploadPhotoPage> {
   }
 
   void goToHomePage() {
-    Navigator.push(context, MaterialPageRoute(builder: (context) {
+    Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
+      // pushreplacement so that user cannot go back on upload page
       return HomePage();
     }));
   }
