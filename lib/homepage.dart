@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
             children: <Widget>[
               IconButton(
                 // color: Theme.of(context).primaryColor,
-                icon: Icon(Icons.people),
+                icon: Icon(Icons.saved_search),
                 onPressed: _logoutUser,
                 iconSize: 40,
               ),
