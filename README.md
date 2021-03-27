@@ -1,6 +1,6 @@
 # blog_app
 
- This project is made by taking reference from [YouTube](https://www.youtube.com/watch?v=zu64GOm0KKU&list=PLxefhmF0pcPlw2kf-3PAPruUjqDYEEsRb).
+ This app is built by taking reference from [YouTube](https://www.youtube.com/watch?v=zu64GOm0KKU&list=PLxefhmF0pcPlw2kf-3PAPruUjqDYEEsRb).
 (It required lot of changes to be done in order to work as expected).
 
 #### It's built using flutter and firebase(BAAS).
